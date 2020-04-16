@@ -1,2 +1,2 @@
 # JS6
- Anotações de estudos em Javascript ES6
+ Anotações de estudos e projetos em Javascript ES6
